@@ -1,1 +1,1 @@
-// Text Reverser App
+Text Reverser App
